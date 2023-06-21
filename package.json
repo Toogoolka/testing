@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "something",
+  "main": "document.write('Hello, Webpack');",
+  "scripts": {
+    "test": " document.write('Hello, Webpack');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toogoolka/testing.git"
+  },
+  "keywords": [
+    "Vladika23."
+  ],
+  "author": "Toogoolka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toogoolka/testing/issues"
+  },
+  "homepage": "https://github.com/Toogoolka/testing#readme"
+}
